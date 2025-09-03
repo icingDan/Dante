@@ -1,2 +1,2 @@
-# Dante
+Dante
 technician
